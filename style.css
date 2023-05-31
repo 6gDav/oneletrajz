@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(to right, #ff0000, #00ff00, #0000ff);
+  }
+  h1 {
+    text-align: center;
+    font-size: 50px;
+    color: pink;
+  }
+  .centered-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    max-width: 500px;
+    margin: auto;
+    padding-top: 450px;
+  }
+  
+  .resume {
+    text-align: center;
+    border: 1px solid black;
+    color: rgb(90, 57, 94);
+  }
+  img {
+    height: 300px;
+  }
+  
